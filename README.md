@@ -1,11 +1,18 @@
 # 2024 Total Solar Eclipse
-A plan for the 2024 eclipse.
+A plan for the 2024 eclipse. [Get Hyped](https://youtu.be/AwlGxVcVNNw?feature=shared){:target="_blank"}
+
+When? **April 8th 3:15PM**  
+Where? **Your Backyard**
+
+## Helpful Resources
+
+Here are two good videos watch prior to Eclipse day
 
 ## Gear for Eclipse Day
 
 ### Glasses
 You must have glasses that are `ISO 12312-2` certified. Buy them now, the price won't go down. Here are two options:
- - [these](https://www.amazon.com/gp/product/B01N9T9CZL/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) which I bought a while back
+ - [these](https://www.amazon.com/gp/product/B01N9T9CZL/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1){:target="_blank"} which I bought a while back
  - [these](https://www.eclipseglasses.com/collections/eclipse-glasses-stock?sca_ref=2753051.yTIACw5DUs) by American Paper Optics
 
 ### Apps
