@@ -51,6 +51,6 @@ There are two apps available for free, with an in-app purchase for a guided tour
 
 ### Experiments
 
- - A white sheet
+ - A white sheet, lay it on the ground to view [Shadow Bands](https://en.wikipedia.org/wiki/Shadow_bands) 
  - colander or a hand held cheese grater
- - 
+ - High contrast green/red boards for [Purkinje Effect](https://en.wikipedia.org/wiki/Purkinje_effect)
