@@ -1,18 +1,28 @@
 # 2024 Total Solar Eclipse
-A plan for the 2024 eclipse. [Get Hyped](https://youtu.be/AwlGxVcVNNw?feature=shared){:target="_blank"}
+[Get Hyped](https://youtu.be/AwlGxVcVNNw?feature=shared) 🌑  - A plan for the 2024 eclipse. 
 
 When? **April 8th 3:15PM**  
 Where? **Your Backyard**
 
 ## Helpful Resources
 
-Here are two good videos watch prior to Eclipse day
+### Videos
+
+ - [Smarter Every Day](https://youtu.be/eNK2LI7VeX4?feature=shared) What you need to know
+ - [Jeff Geerling](https://youtu.be/J-0i4wVHVdc?feature=shared) How to shoot the eclipse 📷
+ - [NASA](https://www.youtube.com/live/2MJY_ptQW1o?feature=shared) Official Broadcast on eclipse day
+
+### Links
+
+ - Links from Jeff Geerling video
+ - https://www.smartereveryday.com/eclipse
+ - https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/
 
 ## Gear for Eclipse Day
 
 ### Glasses
 You must have glasses that are `ISO 12312-2` certified. Buy them now, the price won't go down. Here are two options:
- - [these](https://www.amazon.com/gp/product/B01N9T9CZL/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1){:target="_blank"} which I bought a while back
+ - [these](https://www.amazon.com/gp/product/B01N9T9CZL/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) which I bought a while back
  - [these](https://www.eclipseglasses.com/collections/eclipse-glasses-stock?sca_ref=2753051.yTIACw5DUs) by American Paper Optics
 
 ### Apps
