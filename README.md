@@ -1,20 +1,32 @@
 # 2024 Total Solar Eclipse
-[Get Hyped](https://youtu.be/AwlGxVcVNNw?feature=shared) 🌑  - A plan for the 2024 eclipse. 
+[Get Hyped](https://youtu.be/AwlGxVcVNNw?feature=shared) 🌑  - A plan for the 2024 eclipse happening on **April 8th 3:15PM**.  
 
-When? **April 8th 3:15PM**  
-Where? **Your Backyard**
+Ohio likely has the most people in totality outside of Texas.
+
+ - If you're in Youngstown, drive 5 miles North
+ - If you're in Canton, drive 5 miles North
+ - If you're in Columbus, drive 10 miles North
+ - If you're in Cincinnati, drive 15 miles North
+
+Path over Ohio
+![map-ohio](./assets/eclipse_map_zoomed.png)
+
+Path over US
+![map](./assets/eclipse_map_2024_nocity2_5400.png)
 
 ## Helpful Resources
 
 ### Videos
 
  - [Smarter Every Day](https://youtu.be/eNK2LI7VeX4?feature=shared) What you need to know
- - [Jeff Geerling](https://youtu.be/J-0i4wVHVdc?feature=shared) How to shoot the eclipse 📷
+ - [Jeff Geerling](https://youtu.be/J-0i4wVHVdc?feature=shared) How to shoot the eclipse 📷 (see below)
  - [NASA](https://www.youtube.com/live/2MJY_ptQW1o?feature=shared) Official Broadcast on eclipse day
+
+![eclipse](./assets/geerling.jpg)
 
 ### Links
 
- - Links from Jeff Geerling video
+ - [Interactive google map](https://eclipse2024.org/eclipse_cities/statemap.html)
  - https://www.smartereveryday.com/eclipse
  - https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/
 
