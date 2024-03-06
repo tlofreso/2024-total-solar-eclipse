@@ -1,35 +1,6 @@
 # 2024 Total Solar Eclipse
 [Get Hyped](https://youtu.be/AwlGxVcVNNw?feature=shared) 🌑  - A plan for the 2024 eclipse happening on **April 8th 3:15PM**.  
 
-Ohio likely has the most people in totality outside of Texas.
-
- - If you're in Youngstown, drive 5 miles North
- - If you're in Canton, drive 5 miles North
- - If you're in Columbus, drive 10 miles North
- - If you're in Cincinnati, drive 15 miles North
-
-Path over Ohio
-![map-ohio](./assets/eclipse_map_zoomed.png)
-
-Path over US
-![map](./assets/eclipse_map_2024_nocity2_5400.png)
-
-## Helpful Resources
-
-### Videos
-
- - [Smarter Every Day](https://youtu.be/eNK2LI7VeX4?feature=shared) What you need to know
- - [Jeff Geerling](https://youtu.be/J-0i4wVHVdc?feature=shared) How to shoot the eclipse 📷 (see below)
- - [NASA](https://www.youtube.com/live/2MJY_ptQW1o?feature=shared) Official Broadcast on eclipse day
-
-![eclipse](./assets/geerling.jpg)
-
-### Links
-
- - [Interactive google map](https://eclipse2024.org/eclipse_cities/statemap.html)
- - https://www.smartereveryday.com/eclipse
- - https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/
-
 ## Gear for Eclipse Day
 
 ### Glasses
@@ -51,6 +22,54 @@ There are two apps available for free, with an in-app purchase for a guided tour
 
 ### Experiments
 
+To Bring:
  - A white sheet, lay it on the ground to view [Shadow Bands](https://en.wikipedia.org/wiki/Shadow_bands) 
- - colander or a hand held cheese grater
+ - A colander or hand held cheese grater for [Pinhole Projection](https://youtu.be/eNK2LI7VeX4?feature=shared&t=530)
  - High contrast green/red boards for [Purkinje Effect](https://en.wikipedia.org/wiki/Purkinje_effect)
+
+## Helpful Resources
+
+### Videos
+
+ - [Smarter Every Day](https://youtu.be/eNK2LI7VeX4?feature=shared) What you need to know
+ - [Jeff Geerling](https://youtu.be/J-0i4wVHVdc?feature=shared) How to shoot the eclipse 📷 (see below)
+ - [NASA](https://www.youtube.com/live/2MJY_ptQW1o?feature=shared) Official Broadcast on eclipse day
+
+![eclipse](./assets/geerling.jpg)
+
+### Links
+
+ - [Interactive google map](https://eclipse2024.org/eclipse_cities/statemap.html)
+ - [Smarter Every Day - Eclipse](https://www.smartereveryday.com/eclipse)
+ - [Smarter Every Day Checklist](./assets/EclipseChecklist2.pdf)
+ - [NASA 2024 Total Eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/)
+
+## Locations
+
+Ohio likely has the most people in totality outside of Texas.
+
+ - If you're in Youngstown, drive 5 miles North
+ - If you're in Canton, drive 5 miles North
+ - If you're in Columbus, drive 10 miles North
+ - If you're in Cincinnati, drive 15 miles North
+
+### Potential Viewing Locations
+
+#### [Sharon Nature Preserve](https://www.medinacountyparks.com/index.php/parks/nature-preserves/sharon-nature-preserve)
+6734 State Road  
+Sharon Township, OH
+
+134 acre property with open hay fields, and a wildflower meadow
+
+#### [Silver Creek Disc Golf Course](https://www.summitmetroparks.org/silver-creek-metro-park.aspx)
+4579 Medina Line Rd.  
+Norton, OH 44203
+
+The Disc Golf Course is an open field. Another option would be the fields south of the pheasant run trail.
+
+#### Maps
+Path over Ohio  
+![map-ohio](./assets/eclipse_map_zoomed.png)
+
+Path over US  
+![map](./assets/eclipse_map_2024_nocity2_5400.png)
